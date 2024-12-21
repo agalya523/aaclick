@@ -1,0 +1,24 @@
+#ab{
+    margin: 50px;
+    margin-left: 130px;
+   font-size: medium;
+   padding: 5px;
+   height: 40px;
+   width: 60px;
+   color: white;
+   background-color:rgb(255, 107, 1);
+   border-color: rgb(255, 255, 255);
+}
+#a{
+display: inline-flex;
+margin: 30px;
+color: crimson;
+}
+#b{
+display: inline;
+color: crimson;
+margin: 30px;
+}
+#c{
+display: inline;
+}
